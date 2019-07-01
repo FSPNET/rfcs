@@ -23,7 +23,20 @@ The "RFC" (request for comments) process is intended to provide a consistent and
   - [Help this is all too informal!]
   - [License]
   
-  ## License
+
+### Help this is all too informal!
+[Help this is all too informal!]: #help-this-is-all-too-informal
+
+The process is intended to be as lightweight as reasonable for the present
+circumstances. As usual, we are trying to let the process be driven by
+consensus and community norms, not impose more structure than necessary.
+
+[Developer discussion forum]: https://teams.microsoft.com/l/channel/19%3abbfd1a9e4d6d4d74b0342ddbe42b06af%40thread.skype/rfsc?groupId=e41f16ab-414b-4f78-aac4-929853cd7171&tenantId=d9452ae1-42f5-4b0c-bf8e-fd531a76743a
+[RFC issue tracker]: https://github.com/FSPNET/rfcs/issues
+[RFC repository]: https://github.com/FSPNET/rfcs
+[sub-team]: https://github.com/orgs/FSPNET/teams
+
+## License
 [License]: #license
 
 This repository is currently in the process of being licensed under either of Apache License, Version 2.0, ([LICENSE](LICENSE) or [https://www.apache.org/licenses/LICENSE-2.0](https://www.apache.org/licenses/LICENSE-2.0))
